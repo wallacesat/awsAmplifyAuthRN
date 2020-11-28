@@ -12,6 +12,11 @@
   },
   "precommit": "lint",
   "dependencies": {
+    "@aws-amplify/core": "^3.8.5",
+    "@react-native-community/netinfo": "^5.9.9",
+    "amazon-cognito-identity-js": "^4.5.5",
+    "aws-amplify": "^3.3.10",
+    "aws-amplify-react-native": "^4.2.9",
     "react": "16.13.1",
     "react-native": "0.63.3",
     "react-native-vector-icons": "^7.1.0"
